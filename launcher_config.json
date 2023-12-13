@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "13.21.13840",
+	"clientVersion": "13.21.001",
 	"launcherVersion": "1.0",
 	"replaceFolders": false,
 	"replaceFolderName": [
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Valdraken_Client",
-	"newClientUrl": "https://github.com/Evodrael/valdraken_client/releases/download/client_release/Valdraken_Client1.zip",
+	"newClientUrl": "https://github.com/Evodrael/valdraken_client/releases/download/client_release/Valdraken_Client.zip",
 	"clientExecutable": "client.exe"
 }
