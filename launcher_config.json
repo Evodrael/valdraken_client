@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Valdraken_Client",
-	"newClientUrl": "https://github.com/Evodrael/valdraken_client/releases/download/client_release/Valdraken_Client.zip",
+	"newClientUrl": "https://github.com/Evodrael/valdraken_client/releases/download/client_release/Valdraken_Client1.zip",
 	"clientExecutable": "client.exe"
 }
