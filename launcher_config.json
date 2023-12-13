@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Valdraken_Client",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/Evodrael/valdraken_client/releases/download/client_release/Valdraken_Client.rar",
 	"clientExecutable": "client.exe"
 }
