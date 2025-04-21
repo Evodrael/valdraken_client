@@ -1,0 +1,53 @@
+[ 2025-04-18 02:54:54,810 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 02:54:55,806 ] Using spritesheet cache size of 910
+[ 2025-04-18 02:54:57,127 ] Asset loading complete
+[ 2025-04-18 02:57:23,028 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 02:57:23,397 ] Using spritesheet cache size of 910
+[ 2025-04-18 02:57:24,772 ] Asset loading complete
+[ 2025-04-18 02:58:06,278 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 02:58:06,609 ] Using spritesheet cache size of 910
+[ 2025-04-18 02:58:07,984 ] Asset loading complete
+[ 2025-04-18 02:59:41,617 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 02:59:41,912 ] Using spritesheet cache size of 910
+[ 2025-04-18 02:59:43,265 ] Asset loading complete
+[ 2025-04-18 03:03:51,198 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 03:03:51,477 ] Using spritesheet cache size of 910
+[ 2025-04-18 03:03:52,791 ] Asset loading complete
+[ 2025-04-18 03:08:26,464 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 03:08:26,754 ] Using spritesheet cache size of 910
+[ 2025-04-18 03:08:28,083 ] Asset loading complete
+[ 2025-04-18 03:09:19,800 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 03:09:20,099 ] Using spritesheet cache size of 910
+[ 2025-04-18 03:09:21,412 ] Asset loading complete
+[ 2025-04-18 03:10:32,686 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 03:10:32,967 ] Using spritesheet cache size of 910
+[ 2025-04-18 03:10:34,261 ] Asset loading complete
+[ 2025-04-18 03:12:17,237 ] Update failed. Please reinstall Tibia to update your client.
+[ 2025-04-18 03:13:06,466 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 03:13:06,752 ] Using spritesheet cache size of 910
+[ 2025-04-18 03:13:08,093 ] Asset loading complete
+[ 2025-04-18 03:15:29,072 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 03:15:29,382 ] Using spritesheet cache size of 910
+[ 2025-04-18 03:15:30,741 ] Asset loading complete
+[ 2025-04-18 03:17:20,960 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 03:17:21,236 ] Using spritesheet cache size of 910
+[ 2025-04-18 03:17:22,483 ] Asset loading complete
+[ 2025-04-18 03:17:30,391 ] News query failed: "Unrecognized event news."
+[ 2025-04-18 03:17:32,206 ] Request connection to gameserver  "tcp://108.165.179.131:7172"  (unprotected:  "tcp://108.165.179.131:7172" )  requested (Charakter "GM Evodrael" )
+[ 2025-04-18 03:17:32,210 ] Request connection to gameserver  "tcp://108.165.179.131:7172" "Valdraken"
+[ 2025-04-18 03:17:32,234 ] Connected to gameserver  "tcp://108.165.179.131:7172" "Valdraken"
+[ 2025-04-18 03:17:33,325 ] News query failed: "Unrecognized event news."
+[ 2025-04-18 03:17:43,472 ] Connection to gameserver  "tcp://108.165.179.131:7172" "Valdraken"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-18 03:17:43,508 ] Disconnected from gameserver
+[ 2025-04-18 03:17:43,696 ] News query failed: "Unrecognized event news."
+[ 2025-04-18 03:18:17,896 ] Warning: Setting a new default format with a different version or profile after the global shared context is created may cause issues with context sharing.
+[ 2025-04-18 03:18:18,214 ] Using spritesheet cache size of 910
+[ 2025-04-18 03:18:19,599 ] Asset loading complete
+[ 2025-04-18 03:18:31,221 ] News query failed: "Unrecognized event news."
+[ 2025-04-18 03:18:32,368 ] Request connection to gameserver  "tcp://108.165.179.131:7172"  (unprotected:  "tcp://108.165.179.131:7172" )  requested (Charakter "Evodrael Valdraken" )
+[ 2025-04-18 03:18:32,372 ] Request connection to gameserver  "tcp://108.165.179.131:7172" "Valdraken"
+[ 2025-04-18 03:18:32,397 ] Connected to gameserver  "tcp://108.165.179.131:7172" "Valdraken"
+[ 2025-04-18 03:18:33,461 ] News query failed: "Unrecognized event news."
+[ 2025-04-18 03:18:50,202 ] Connection to gameserver  "tcp://108.165.179.131:7172" "Valdraken"  was disconnected ( "The remote host closed the connection" )
+[ 2025-04-18 03:18:50,241 ] Disconnected from gameserver
+[ 2025-04-18 03:18:50,409 ] News query failed: "Unrecognized event news."
